@@ -14,29 +14,16 @@
 - [ ] [[ORT/Cases/CMP-912453\|CMP-912453]] @{2026-09-29}
 
 
-## Resolved
+## Resolved Today
 
 **Complete**
-- [x] [[ORT/Cases/CMP-910917\|CMP-910917]] @{2026-09-28}
 - [x] [[ORT/Cases/CMP-917171\|CMP-917171]] @{2026-10-01}
 - [x] [[ORT/Cases/CMP-916163\|CMP-916163]] @{2026-10-01}
 - [x] [[ORT/Cases/CMP-917167\|CMP-917167]] @{2026-10-01}
+- [x] [[ORT/Cases/CMP-910917\|CMP-910917]] @{2026-09-28}
 
 
-## Transferred
-
-**Complete**
-
-
-## Duplicate
-
-**Complete**
-- [x] [[ORT/Cases/CMP-915126\|CMP-915126]] @{2026-09-30}
-
-
-***
-
-## Archive
+## Archive List
 
 - [ ] [[ORT/Cases/CMP-735935\|CMP-735935]]
 - [ ] [[ORT/Cases/CMP-734843\|CMP-734843]]
@@ -641,4 +628,22 @@
 - [x] [[ORT/Cases/CMP-914258\|CMP-914258]] @{2026-09-30}
 - [x] [[ORT/Cases/CMP-914389\|CMP-914389]] @{2026-09-30}
 - [x] [[ORT/Cases/CMP-915399\|CMP-915399]] @{2026-09-30}
+
+
+## Transferred
+
+**Complete**
+
+
+## Duplicate
+
+**Complete**
+- [x] [[ORT/Cases/CMP-915126\|CMP-915126]] @{2026-09-30}
+
+
+## Archive
+
+
+
+
 
