@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ort/case-dashboard/","tags":["gardenEntry"],"dg-note-properties":{"kanban-plugin":"board"}}
+{"kanban-plugin":"board","dg-publish":true,"dg-home":true,"permalink":"/ort/case-dashboard/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"kanban-plugin":"board"}}
 ---
 
 
@@ -19,7 +19,6 @@
 
 ## Resolved Today
 
-**Complete**
 - [x] [[ORT/Cases/CMP-912453\|CMP-912453]] @{2026-09-29}
 - [x] [[ORT/Cases/CMP-917607\|CMP-917607]] @{2026-10-02}
 
