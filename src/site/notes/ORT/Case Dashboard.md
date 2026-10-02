@@ -1,5 +1,5 @@
 ---
-{"kanban-plugin":"board","dg-publish":true,"dg-home":true,"permalink":"/ort/case-dashboard/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"kanban-plugin":"board"}}
+{"kanban-plugin":"board","dg-publish":true,"":true,"permalink":"/ort/case-dashboard/","dgPassFrontmatter":true,"dg-note-properties":{"kanban-plugin":"board","":true}}
 ---
 
 
