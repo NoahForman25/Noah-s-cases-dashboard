@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/markdown/","dg-note-properties":{"complaint_id":"","uid":"","date_created":null,"todays_date":null,"Product":null,"Topic":null,"sub_topic":null,"escalated":false,"Duplicate":null,"pending":false,"date_resolved":null}}
+{"complaint_id":"","uid":"","date_created":null,"todays_date":null,"Product":null,"Topic":null,"sub_topic":null,"escalated":false,"Duplicate":null,"pending":false,"date_resolved":null,"dg-publish":true,"permalink":"/templates/markdown/","dgPassFrontmatter":true,"dg-note-properties":{"complaint_id":"","uid":"","date_created":null,"todays_date":null,"Product":null,"Topic":null,"sub_topic":null,"escalated":false,"Duplicate":null,"pending":false,"date_resolved":null}}
 ---
 
 ## Complaint
