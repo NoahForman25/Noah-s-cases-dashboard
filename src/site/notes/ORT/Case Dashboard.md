@@ -1,5 +1,5 @@
 ---
-{"kanban-plugin":"board","dg-publish":true,"":true,"permalink":"/ort/case-dashboard/","dgPassFrontmatter":true,"dg-note-properties":{"kanban-plugin":"board","":true}}
+{"dg-publish":true,"permalink":"/ort/case-dashboard/","updated":"2026-10-02T11:07:34.683-06:00","dg-note-properties":{"kanban-plugin":"board","":true}}
 ---
 
 
