@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/ort/case-dashboard/","updated":"2026-10-02T11:33:29.086-06:00","dg-note-properties":{"kanban-plugin":"board","":true}}
+{"dg-publish":true,"permalink":"/ort/case-dashboard/","updated":"2026-10-05T11:29:10.408-06:00","dg-note-properties":{"kanban-plugin":"board","":true}}
 ---
 
 
 ## New
 
-- [ ] [[ORT/Cases/CMP-917624\|CMP-917624]] @{2026-10-02}
+- [ ] [[ORT/Cases/CMP-920268\|CMP-920268]] @{2026-10-05}
 
 
 ## Pending
@@ -15,16 +15,26 @@
 
 ## Resolved Today
 
-- [x] [[ORT/Cases/CMP-912453\|CMP-912453]] @{2026-09-29}
-- [x] [[ORT/Cases/CMP-917607\|CMP-917607]] @{2026-10-02}
-- [ ] [[ORT/Cases/CMP-916710\|CMP-916710]] @{2026-10-02}
-- [ ] [[ORT/Cases/CMP-916714\|CMP-916714]] @{2026-10-02}
-- [ ] [[ORT/Cases/CMP-916733\|CMP-916733]] @{2026-10-02}
-- [ ] [[ORT/Cases/CMP-916735\|CMP-916735]] @{2026-10-02}
+- [ ] [[ORT/Cases/CMP-919290\|CMP-919290]] @{2026-10-05}
+- [ ] [[ORT/Cases/CMP-920104\|CMP-920104]] @{2026-10-05}
+- [ ] [[ORT/Cases/CMP-920112\|CMP-920112]] @{2026-10-05}
+- [ ] [[ORT/Cases/CMP-919291\|CMP-919291]] @{2026-10-05}
+- [ ] [[ORT/Cases/CMP-919333\|CMP-919333]] @{2026-10-05}
+- [ ] [[ORT/Cases/CMP-920210\|CMP-920210]] @{2026-10-05}
+- [ ] [[ORT/Cases/CMP-920187\|CMP-920187]] @{2026-10-05}
 
 
 ## Archive List
 
+- [ ] [[ORT/Cases/CMP-917624\|CMP-917624]] @{2026-10-02}
+- [ ] [[ORT/Cases/CMP-917733\|CMP-917733]] @{2026-10-02}
+- [ ] [[ORT/Cases/CMP-917757\|CMP-917757]] @{2026-10-02}
+- [ ] [[ORT/Cases/CMP-916735\|CMP-916735]] @{2026-10-02}
+- [ ] [[ORT/Cases/CMP-916733\|CMP-916733]] @{2026-10-02}
+- [ ] [[ORT/Cases/CMP-916714\|CMP-916714]] @{2026-10-02}
+- [ ] [[ORT/Cases/CMP-916710\|CMP-916710]] @{2026-10-02}
+- [x] [[ORT/Cases/CMP-917607\|CMP-917607]] @{2026-10-02}
+- [x] [[ORT/Cases/CMP-912453\|CMP-912453]] @{2026-09-29}
 - [ ] - [x] [[ORT/Cases/CMP-916125\|CMP-916125]] @{2026-10-01}
 - [ ] - [x] [[ORT/Cases/CMP-917167\|CMP-917167]] @{2026-10-01}
 - [ ] - [x] [[ORT/Cases/CMP-916163\|CMP-916163]] @{2026-10-01}
@@ -637,11 +647,16 @@
 ## Transferred
 
 **Complete**
+- [x] [[ORT/Cases/CMP-920122\|CMP-920122]] @{2026-10-05}
+- [x] [[ORT/Cases/CMP-919295\|CMP-919295]] @{2026-10-05}
+- [x] [[ORT/Cases/CMP-919437\|CMP-919437]] @{2026-10-05}
+- [x] [[ORT/Cases/CMP-920192\|CMP-920192]] @{2026-10-05}
 
 
 ## Duplicate
 
 **Complete**
+- [x] [[ORT/Cases/CMP-919312\|CMP-919312]] @{2026-10-05}
 - [x] [[ORT/Cases/CMP-916720\|CMP-916720]] @{2026-10-02}
 
 
