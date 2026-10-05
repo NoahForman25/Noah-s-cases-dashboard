@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/ort/case-dashboard/","updated":"2026-10-05T11:29:10.408-06:00","dg-note-properties":{"kanban-plugin":"board","":true}}
+{"dg-publish":true,"permalink":"/ort/case-dashboard/","updated":"2026-10-05T13:56:18.466-06:00","dg-note-properties":{"kanban-plugin":"board","":true}}
 ---
 
 
 ## New
 
-- [ ] [[ORT/Cases/CMP-920268\|CMP-920268]] @{2026-10-05}
 
 
 ## Pending
@@ -22,6 +21,7 @@
 - [ ] [[ORT/Cases/CMP-919333\|CMP-919333]] @{2026-10-05}
 - [ ] [[ORT/Cases/CMP-920210\|CMP-920210]] @{2026-10-05}
 - [ ] [[ORT/Cases/CMP-920187\|CMP-920187]] @{2026-10-05}
+- [ ] [[ORT/Cases/CMP-920268\|CMP-920268]] @{2026-10-05}
 
 
 ## Archive List
