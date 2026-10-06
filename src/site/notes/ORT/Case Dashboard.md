@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ort/case-dashboard/","updated":"2026-10-05T13:56:18.466-06:00","dg-note-properties":{"kanban-plugin":"board","":true}}
+{"dg-publish":true,"permalink":"/ort/case-dashboard/","updated":"2026-10-06T07:23:29.446-06:00","dg-note-properties":{"kanban-plugin":"board","":true}}
 ---
 
 
@@ -14,7 +14,6 @@
 
 ## Resolved Today
 
-- [ ] [[ORT/Cases/CMP-919290\|CMP-919290]] @{2026-10-05}
 - [ ] [[ORT/Cases/CMP-920104\|CMP-920104]] @{2026-10-05}
 - [ ] [[ORT/Cases/CMP-920112\|CMP-920112]] @{2026-10-05}
 - [ ] [[ORT/Cases/CMP-919291\|CMP-919291]] @{2026-10-05}
@@ -26,6 +25,7 @@
 
 ## Archive List
 
+- [ ] [[ORT/Cases/CMP-919290\|CMP-919290]] @{2026-10-05}
 - [ ] [[ORT/Cases/CMP-917624\|CMP-917624]] @{2026-10-02}
 - [ ] [[ORT/Cases/CMP-917733\|CMP-917733]] @{2026-10-02}
 - [ ] [[ORT/Cases/CMP-917757\|CMP-917757]] @{2026-10-02}
