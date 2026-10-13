@@ -1,41 +1,59 @@
 ---
-{"dg-publish":true,"permalink":"/ort/case-dashboard/","updated":"2026-10-08T09:23:59.639-06:00","dg-note-properties":{"kanban-plugin":"board","":true}}
+{"dg-publish":true,"permalink":"/ort/case-dashboard/","updated":"2026-10-13T12:37:29.640-06:00","dg-note-properties":{"kanban-plugin":"board","":true}}
 ---
 
 
 ## New
 
-- [ ] [[ORT/Cases/CMP-921789\|CMP-921789]] @{2026-10-08}
-- [ ] [[ORT/Cases/CMP-922586\|CMP-922586]] @{2026-10-08}
 
 
 ## Pending
 
-- [ ] [[ORT/Cases/CMP-913769\|CMP-913769]] @{2026-10-06}
+- [ ] [[ORT/Cases/CMP-928558\|CMP-928558]] @{2026-10-13}
 
 
 ## Resolved Today
 
-- [ ] [[ORT/Cases/CMP-922541\|CMP-922541]] @{2026-10-08}
-- [ ] [[ORT/Cases/CMP-922552\|CMP-922552]] @{2026-10-08}
-- [ ] [[ORT/Cases/CMP-921763\|CMP-921763]] @{2026-10-08}
-- [ ] [[ORT/Cases/CMP-921781\|CMP-921781]] @{2026-10-08}
-- [ ] [[ORT/Cases/CMP-921782\|CMP-921782]] @{2026-10-08}
-- [ ] [[ORT/Cases/CMP-921788\|CMP-921788]] @{2026-10-08}
-
-
-## Transferred
-
-**Complete**
-
-
-## Duplicate
-
-**Complete**
+- [ ] [[ORT/Cases/CMP-929550\|CMP-929550]] @{2026-10-13}
+- [ ] [[ORT/Cases/CMP-929174\|CMP-929174]] @{2026-10-13}
+- [ ] [[ORT/Cases/CMP-913769\|CMP-913769]] @{2026-10-06}
+- [ ] [[ORT/Cases/CMP-928552\|CMP-928552]] @{2026-10-13}
+- [ ] [[ORT/Cases/CMP-928600\|CMP-928600]] @{2026-10-13}
+- [ ] [[ORT/Cases/CMP-929549\|CMP-929549]] @{2026-10-13}
+- [ ] [[ORT/Cases/CMP-929655\|CMP-929655]] @{2026-10-13}
+- [ ] [[ORT/Cases/CMP-929557\|CMP-929557]] @{2026-10-13}
+- [ ] [[ORT/Cases/CMP-929718\|CMP-929718]] @{2026-10-13}
 
 
 ## Archive List
 
+- [ ] [[ORT/Cases/CMP-929173\|CMP-929173]] @{2026-10-12}
+- [ ] [[ORT/Cases/CMP-922886\|CMP-922886]] @{2026-10-12}
+- [ ] [[ORT/Cases/CMP-928040\|CMP-928040]] @{2026-10-12}
+- [ ] [[ORT/Cases/CMP-929011\|CMP-929011]] @{2026-10-12}
+- [ ] [[ORT/Cases/CMP-929010\|CMP-929010]] @{2026-10-12}
+- [ ] [[ORT/Cases/CMP-929005\|CMP-929005]] @{2026-10-12}
+- [ ] [[ORT/Cases/CMP-928027\|CMP-928027]] @{2026-10-12}
+- [ ] [[ORT/Cases/CMP-927883\|CMP-927883]] @{2026-10-12}
+- [ ] [[ORT/Cases/CMP-927184\|CMP-927184]] @{2026-10-09}
+- [ ] [[ORT/Cases/CMP-926023\|CMP-926023]] @{2026-10-09}
+- [ ] [[ORT/Cases/CMP-926025\|CMP-926025]] @{2026-10-09}
+- [ ] [[ORT/Cases/CMP-927202\|CMP-927202]] @{2026-10-09}
+- [ ] [[ORT/Cases/CMP-927188\|CMP-927188]] @{2026-10-09}
+- [ ] [[ORT/Cases/CMP-926198\|CMP-926198]] @{2026-10-09}
+- [ ] [[ORT/Cases/CMP-926020\|CMP-926020]] @{2026-10-09}
+- [ ] [[ORT/Cases/CMP-925160\|CMP-925160]] @{2026-10-09}
+- [ ] [[ORT/Cases/CMP-924334\|CMP-924334]] @{2026-10-09}
+- [ ] [[ORT/Cases/CMP-924327\|CMP-924327]] @{2026-10-09}
+- [ ] [[ORT/Cases/CMP-924333\|CMP-924333]] @{2026-10-09}
+- [ ] [[ORT/Cases/CMP-922586\|CMP-922586]] @{2026-10-08}
+- [ ] [[ORT/Cases/CMP-921789\|CMP-921789]] @{2026-10-08}
+- [ ] [[ORT/Cases/CMP-921788\|CMP-921788]] @{2026-10-08}
+- [ ] [[ORT/Cases/CMP-921782\|CMP-921782]] @{2026-10-08}
+- [ ] [[ORT/Cases/CMP-921781\|CMP-921781]] @{2026-10-08}
+- [ ] [[ORT/Cases/CMP-921763\|CMP-921763]] @{2026-10-08}
+- [ ] [[ORT/Cases/CMP-922552\|CMP-922552]] @{2026-10-08}
+- [ ] [[ORT/Cases/CMP-922541\|CMP-922541]] @{2026-10-08}
 - [ ] [[ORT/Cases/CMP-921238\|CMP-921238]] @{2026-10-07}
 - [ ] [[ORT/Cases/CMP-921230\|CMP-921230]] @{2026-10-07}
 - [ ] [[ORT/Cases/CMP-921260\|CMP-921260]] @{2026-10-07}
@@ -684,6 +702,17 @@
 - [x] [[ORT/Cases/CMP-816251\|CMP-816251]] @{2026-07-30}
 - [x] [[ORT/Cases/CMP-817254\|CMP-817254]] @{2026-07-30}
 - [x] [[ORT/Cases/CMP-817276\|CMP-817276]] @{2026-07-30}
+
+
+## Transferred
+
+**Complete**
+
+
+## Duplicate
+
+**Complete**
+- [x] [[ORT/Cases/CMP-928027 1\|CMP-928027 1]] @{2026-10-12}
 
 
 ***
